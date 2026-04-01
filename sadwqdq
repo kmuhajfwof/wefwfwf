@@ -14,7 +14,7 @@ ALLNODES_BRANCH="${ALLNODES_BRANCH:-main}"
 
 # Дополнительные ноды, которые нужно докинуть в custom_nodes
 EXTRA_NODES=(
-    "https://github.com/PozzettiAndrea/ComfyUI-SAM3"
+    "https://github.com/kmuhajfwof/ssssdd"
 )
 
 CLIP_MODELS=(
